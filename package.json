@@ -1,0 +1,23 @@
+{
+  "name": "ajs-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucky-999/ajs-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucky-999/ajs-node/issues"
+  },
+  "homepage": "https://github.com/lucky-999/ajs-node#readme",
+  "dependencies": {
+    "@lucky-999/ajs-2": "^1.0.0"
+  }
+}
